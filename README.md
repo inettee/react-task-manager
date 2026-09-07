@@ -16,7 +16,8 @@
 * 💾 **Đồng bộ Dữ liệu:** Tự động lưu và duy trì dữ liệu người dùng qua Browser `LocalStorage`.
 ## 📸 Giao diện ứng dụng
 
-![Workspace Planner Demo](./public/assets/image1.png)(./public/assets/image.png)
+![Workspace Planner Demo](./public/assets/image1.png)
+![Workspace Planner Demo](./public/assets/image.png)
 
 ---
 
